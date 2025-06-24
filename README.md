@@ -6,7 +6,7 @@ Sou apaixonado por tecnologia, programação e por compartilhar conhecimento. Te
 
 - 🎓 Graduando em Ciências da Computação
 - 💻 Foco em desenvolvimento de sistemas digitais, automação e soluções embarcadas
-- 🌱 Atualmente aprendendo mais sobre **Verilog** e **FPGA**
+- 🌱 Atualmente aprendendo mais sobre **Python** e **HTML**
 - 🚀 Sempre em busca de novos desafios e oportunidades de colaboração
 
 ## 📫 Como me encontrar

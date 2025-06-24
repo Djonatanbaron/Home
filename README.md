@@ -12,6 +12,7 @@ Sou apaixonado por tecnologia, programação e por compartilhar conhecimento. Te
 ## 📫 Como me encontrar
 
 - Email: djonatan.r@unoesc.edu.br
+- Github [LinkedIn](https://www.linkedin.com/in/Djonatanbaron)
 
 Sinta-se à vontade para explorar meus repositórios, contribuir ou entrar em contato para trocar ideias!
 
